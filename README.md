@@ -4,5 +4,46 @@
 别忘了 `star` 喔~
 
  [![CSDN](https://img.shields.io/badge/CSDN-HNUJSY-red)](https://blog.csdn.net/HNUPCJ)     
-# mysql
+
+# Java集合
+
+![Java集合](./pic/java集合.png)
+
+# JVM
+
+![JVM](./pic/jvm.png)
+
+# 并发编程
+
+![并发编程](./pic/并发编程.png)
+
+# MySQL
+
 ![mysql](./pic/mysql.png)
+
+# Redis
+
+![Redis](./pic/redis.png)
+
+# 分布式系统
+
+![分布式系统](./pic/分布式系统.png)
+
+# 高可用架构
+
+![高可用架构](./pic/高可用架构.png)
+
+# 谷粒商城项目
+
+![谷粒商城项目](./pic/谷粒商城项目.png)
+
+# 安全
+
+![安全](./pic/安全.png)
+
+# 数仓
+
+![数仓](./pic/数仓.png)
+
+
+

@@ -42,7 +42,7 @@
 
 # Redis
 
-![Redis](./pic/redis.png)
+![Redis](./pic/Redis.png)
 
 # 分布式系统
 
